@@ -14,8 +14,8 @@ class Presets(object):
 <b>/subs</b><code> - to count subscribers</code>
 <b>/send</b><code>  - to broadcast (as reply)</code>
 
-<b>Join:</b><a href='https://t.me/RMProjects'><b> Support</b></a> | Repo\
-<a href='https://github.com/m4mallu/inline-tube-mate'><b> LINK</b></a>   
+<b>Donate 🌟:</b><a href='t.me/MeDonate'><b> More Bots</b></a> | Repo\
+<a href='t.me/BotsByBk'><b> LINK</b></a>   
     """
 
     OPTIONS_TXT = "<code>🔰 Select the option 🔰</code>"
